@@ -1,5 +1,6 @@
 ;;; moccur-edit.el --- apply replaces to multiple files
 
+;; Package-Version: 2.16
 ;; Version: 2.16
 ;; Author: Matsushita Akihisa <akihisa@mail.ne.jp>
 ;; Keywords: moccur edit
