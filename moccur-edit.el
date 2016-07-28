@@ -1,7 +1,5 @@
 ;;; moccur-edit.el --- apply replaces to multiple files
-;; -*- Mode: Emacs-Lisp -*-
 
-;;  $Id: moccur-edit.el,v 2.16 2008/08/01 09:32:18 akihisa Exp $
 ;; Version: 2.16
 ;; Author: Matsushita Akihisa <akihisa@mail.ne.jp>
 ;; Keywords: moccur edit
